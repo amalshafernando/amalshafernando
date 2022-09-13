@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amalshafernando
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning machine learning
+- 🌱 machine learning and data science enthusiast
 - 💞️ I’m looking to collaborate on as a machine learning engineer
 - 📫 How to reach me ... https://www.linkedin.com/in/amalshafernando/
 
