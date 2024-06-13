@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amalsha Fernando</h1>
 <h3 align="center">A passioante Software Engineer, ML Engineer, Data Scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalshafernando" alt="amalshafernando" /></a> </p>
+
 
 - 🌱 I’m currently learning **Deep Learning and Gen AI**
 
@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalshafernando&show_icons=true&locale=en" alt="amalshafernando" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amalshafernando&" alt="amalshafernando" /></p>
+
+<h2> Machine Learning Specialization Certificate </h2> <br>
+<img src="https://github.com/amalshafernando/amalshafernando/blob/main/my%20certificates/machine%20learning%20certificate.png" alt="Machine Learning Specialization Certificate" style="width: 50%; height: 50%;">
+
