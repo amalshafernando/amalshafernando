@@ -32,7 +32,7 @@
 
 <h2> Machine Learning Specialization Certificate </h2> <br>
 <img src="https://github.com/amalshafernando/amalshafernando/blob/main/my%20certificates/machine%20learning%20certificate.png" alt="Machine Learning Specialization Certificate" style="width: 50%; height: 50%;">
-
+<br> <h2> Cloud Certification </h2>
 <table>
   <tr>
     <td style="text-align: center; vertical-align: middle">
