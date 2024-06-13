@@ -27,6 +27,26 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amalshafernando&" alt="amalshafernando" /></p>
 
+
+## Certificates
+
 <h2> Machine Learning Specialization Certificate </h2> <br>
 <img src="https://github.com/amalshafernando/amalshafernando/blob/main/my%20certificates/machine%20learning%20certificate.png" alt="Machine Learning Specialization Certificate" style="width: 50%; height: 50%;">
+
+<table>
+  <tr>
+    <td style="text-align: center; vertical-align: middle">
+      <img src="https://github.com/amalshafernando/amalshafernando/blob/main/my%20certificates/Result58281632928-1.png" alt="Azure Fundamentals exam results" >
+      <br>
+      <b>Azure Fundamentals exam results</b>
+    </td>
+    <td style="text-align: center;  vertical-align: middle">
+      <img src="https://github.com/amalshafernando/amalshafernando/blob/main/my%20certificates/Cert150817137-1.png" alt="AZure Fundamentals Certificate">
+      <br>
+      <b>AZure Fundamentals Certificate</b>
+    </td>
+  </tr>
+</table>
+
+
 
