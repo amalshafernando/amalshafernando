@@ -27,6 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amalshafernando&" alt="amalshafernando" /></p>
 
-<h1> Machine Learning Specialization Certificate </h2> <br>
+<h2> Machine Learning Specialization Certificate </h2> <br>
 <img src="https://github.com/amalshafernando/amalshafernando/blob/main/my%20certificates/machine%20learning%20certificate.png" alt="Machine Learning Specialization Certificate" style="width: 50%; height: 50%;">
 
