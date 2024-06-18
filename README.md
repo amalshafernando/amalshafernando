@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Gen AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amalshafernando](https://github.com/amalshafernando)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/amalshafernando?tab=repositories)
 
 - 💬 Ask me about **django**
 
